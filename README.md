@@ -1,3 +1,15 @@
+# PIAIC_BCC_Q3_3C
+## Assignment No 3C
+We will continue with the previous token and extend that token with new features.
+
+1. Owner can transfer the ownership of the Token Contract.
+2. Owner can approve or delegate anybody to manage the pricing of tokens.
+3. Update pricing method to allow owner and approver to change the price of the token
+3. Add the ability that Token Holder can return the Token and get back the Ether based on the current price
+
+## Solution
+https://ropsten.etherscan.io/address/0x96295bfaca4ceac2e5a063f019c292374f107436
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
@@ -13,4 +25,4 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-# PIAIC_BCC_Q3_3C
+
